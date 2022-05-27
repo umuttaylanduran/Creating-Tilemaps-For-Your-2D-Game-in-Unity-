@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 9305016f71571384b94c9d71f66fd6c3, type: 3}
+  - {fileID: 21300000, guid: 15a30ca0a6cd16a42a6a4b1ff4733582, type: 3}
+  - {fileID: 21300000, guid: 2717dc37838a351438d0f10e872b83f7, type: 3}
+  - {fileID: 21300000, guid: cb0aca34cc4727d47bad7baec02cf6c1, type: 3}
+  - {fileID: 21300000, guid: d60232e3f8ac4e246afd93a7445d96b5, type: 3}
+  - {fileID: 21300000, guid: a25841f8e9f7ab74f95a60f03aadafc5, type: 3}
+  - {fileID: 21300000, guid: 9eea2cf8f541779459a213e9c01aa4cf, type: 3}
+  - {fileID: 21300000, guid: 598effacc59390b46913fe9597ac2b9d, type: 3}
+  - {fileID: 21300000, guid: 773a436e201a28f48970bb9f40f48226, type: 3}
+  - {fileID: 21300000, guid: 7160f377c2b340640966b8bd8d20154e, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

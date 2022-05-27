@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Waterrr
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 650e5c2c8bb5a2f448a72f1c3b49b982, type: 3}
+  - {fileID: 21300000, guid: f7851a6fd483e204bbe714fb19dcf2d0, type: 3}
+  - {fileID: 21300000, guid: d6be70792897d754d8977f4445fa0281, type: 3}
+  - {fileID: 21300000, guid: 23594cfa5a47a9149903083fb1098e84, type: 3}
+  - {fileID: 21300000, guid: 8c019b75609dfe14789e090f992e1c0b, type: 3}
+  - {fileID: 21300000, guid: 221abe16e017fc94686ecabf19350d63, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterrUp
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 80e192f72502b214d966a97136848ce9, type: 3}
+  - {fileID: 21300000, guid: ca754a375bba09849a912957abf90c60, type: 3}
+  - {fileID: 21300000, guid: fe9566b28af66684ea884d98d42a1d39, type: 3}
+  - {fileID: 21300000, guid: dad1710f9fa684049a6b077c31449780, type: 3}
+  - {fileID: 21300000, guid: a43debe0d58df6b4d8da76dfc020ee59, type: 3}
+  - {fileID: 21300000, guid: 1c0c220e104801b41a8ff65436b37d95, type: 3}
+  - {fileID: 21300000, guid: bc388bf751a36574e92ccfd661ed80e2, type: 3}
+  - {fileID: 21300000, guid: 0f64ce48a1237bf4697e19cb0b6d224c, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
